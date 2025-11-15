@@ -1,3 +1,13 @@
 1. Command is git init 
 2. Command is git add .  
 3. Command is git commit -m "enter your first commit"
+4. Command is git log -  it is show commit history 
+5. Command is git branch - it is show all local branch
+6. Command is git branch <branch name> -  help to create new branch 
+7. Command is git checkout branch - help to create new branch and switch current to new branch
+8. Command is git branch -d branch -help to delete branch 
+9. Command is git remote add origin url (paste your github repo url) 
+10.Command is git remote -v -help to show repositories
+11.Command is git push origin - branch - push  code on your github repo
+12. Command is git pull origin branch  - pull  changes from remote
+13. Command is git clone <url> - help to clone public repositories
